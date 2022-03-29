@@ -1,5 +1,5 @@
 # MuruRaffleEntry
-Raffle entry for Murukami Raffle
+Raffle entry for --- Raffle
 
 The bot will attempt to enter all mails/tasks asynchronously depending on how many cores you have. Only limited due to the captcha solver being quite intensive with lots of threads. 
 
