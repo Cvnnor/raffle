@@ -13,3 +13,9 @@ The bot will attempt to enter all mails/tasks asynchronously depending on how ma
 
 ## Mails
 - Enter a list of pre-existing emails to use.
+
+## newMails
+- Extract all confirmation links from the e-mails and put them all in this file, line by line.
+
+## confirmedWallets
+- The bot will extract all submitted wallets to this file.
